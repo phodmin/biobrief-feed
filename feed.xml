@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>BioBrief</title>
+<link>https://phodmin.github.io/biobrief-feed/</link>
+<atom:link href="https://phodmin.github.io/biobrief-feed/feed.xml" rel="self" type="application/rss+xml"/>
+<description><![CDATA[<p>BioBrief is a daily biotech and biopharma news update.</p>]]></description>
+<language>en</language>
+<copyright>BioBrief 2026</copyright>
+<lastBuildDate>Fri, 25 Sep 2026 15:26:53 +0000</lastBuildDate>
+<podcast:guid>147cc6d3-cc80-5935-b4e5-2749d60d6478</podcast:guid>
+<podcast:medium>podcast</podcast:medium>
+<podcast:locked>no</podcast:locked>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+<itunes:author>BioBrief</itunes:author>
+<itunes:owner><itunes:name>BioBrief</itunes:name><itunes:email>REPLACE_ME@example.com</itunes:email></itunes:owner>
+<itunes:image href="https://phodmin.github.io/biobrief-feed/cover.png"/>
+<image><url>https://phodmin.github.io/biobrief-feed/cover.png</url><title>BioBrief</title><link>https://phodmin.github.io/biobrief-feed/</link></image>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Business"></itunes:category><itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+<item>
+<title>Friday, May 15: Enhertu’s Early Breast Cancer Expansion, Tecentriq’s MRD Approval, and Aardvark’s Clinical Hold</title>
+<itunes:title>Friday, May 15: Enhertu’s Early Breast Cancer Expansion, Tecentriq’s MRD Approval, and Aardvark’s Clinical Hold</itunes:title>
+<guid isPermaLink="false">94b456ed-b262-4cd1-865b-bb9ced030125</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-15</link>
+<pubDate>Wed, 20 May 2026 23:19:55 +0000</pubDate>
+<description><![CDATA[<p>BioBrief’s Friday episode covers a regulatory-heavy day in biopharma, with two meaningful FDA oncology decisions landing against a weak biotech tape.</p><p>In today’s BioBrief:</p><ul><li><strong>Enhertu</strong> — The FDA approved AstraZeneca and Daiichi Sankyo’s antibody-drug conjugate in two early-stage HER2-positive breast cancer settings, including adjuvant use after residual invasive disease.</li><li><strong>Tecentriq and Signatera</strong> — Roche’s Tecentriq was approved for ctDNA-positive muscle-invasive bladder cancer after cystectomy, alongside Natera’s Signatera CDx companion diagnostic.</li><li><strong>Aardvark Therapeutics</strong> — The FDA placed ARD-101 under a full clinical hold after cardiac safety concerns, resetting the outlook for the company’s Prader-Willi syndrome program.</li><li><strong>Market pulse</strong> — Biotech underperformed the broader market, with XBI down 3.08 percent and IBB down 2.63 percent versus a 1.2 percent decline in the S&amp;P 500.</li><li><strong>Catalyst watch</strong> — Next steps include Enhertu adoption in earlier breast cancer, real-world uptake of MRD-guided bladder cancer treatment, and Aardvark’s planned unblinding of available Phase 3 data.</li></ul><p>Today’s theme: strong FDA oncology decisions, weak biotech risk appetite, and a reminder that safety can quickly reshape a small-cap development story.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-15.mp3" length="5405819" type="audio/mpeg"/>
+<itunes:duration>335</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>19</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Week Ahead by BioBrief, Sunday, May 17: Ralinepag’s PAH Data, ASCO Abstracts, and Enhertu’s FDA Approvals</title>
+<itunes:title>Week Ahead by BioBrief, Sunday, May 17: Ralinepag’s PAH Data, ASCO Abstracts, and Enhertu’s FDA Approvals</itunes:title>
+<guid isPermaLink="false">01234beb-a2d6-400a-af12-f7def7314355</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-17-week-ahead</link>
+<pubDate>Wed, 20 May 2026 23:16:50 +0000</pubDate>
+<description><![CDATA[<p>BioBrief’s special week-ahead edition previews the key biotech and biopharma events to watch for the week of May 18, with pulmonary data, oncology positioning, and FDA regulatory updates in focus.</p><p>In today’s BioBrief:</p><ul><li><strong>United Therapeutics / ralinepag</strong> — Phase 3 ADVANCE OUTCOMES data in pulmonary arterial hypertension showed a 55 percent reduction in clinical worsening risk, setting up a planned NDA filing in the second half of 2026.</li><li><strong>ASCO abstracts</strong> — Regular ASCO abstracts are scheduled for release on Thursday, May 21, creating an important oncology positioning event ahead of the full meeting.</li><li><strong>Enhertu</strong> — Daiichi Sankyo and AstraZeneca enter the week with two new FDA approvals for Enhertu in HER2-positive early-stage breast cancer.</li><li><strong>ATS respiratory watch</strong> — United Therapeutics’ Tyvaso data in idiopathic pulmonary fibrosis, Insmed’s ARIKAYCE data in MAC lung disease, and Savara’s molgramostim updates are also in focus.</li><li><strong>Market pulse</strong> — Biotech enters the week under pressure, with XBI down about 3 percent last week and IBB down about 1.8 percent, while the S&amp;P 500 was slightly positive.</li><li><strong>Catalyst watch</strong> — The week’s core question is whether strong pulmonary data and ASCO setup can offset a risk-off small-cap biotech tape.</li></ul><p>This episode is designed for biotech investors, operators, founders, pharma BD teams, analysts, and scientifically literate listeners tracking clinical, regulatory, and market-moving events.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-17-week-ahead.mp3" length="5395370" type="audio/mpeg"/>
+<itunes:duration>334</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>20</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Thursday, May 14: Kyverna’s Autoimmune CAR-T Filing, BridgeBio’s Encaleret NDA, and Agios’ Mitapivat sNDA</title>
+<itunes:title>Thursday, May 14: Kyverna’s Autoimmune CAR-T Filing, BridgeBio’s Encaleret NDA, and Agios’ Mitapivat sNDA</itunes:title>
+<guid isPermaLink="false">919e1c91-f2ea-4a38-952b-c9285273b15d</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-14</link>
+<pubDate>Fri, 15 May 2026 10:17:40 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers a selective biotech session driven by regulatory execution, rare-disease filings, and continued investor interest in differentiated clinical-stage stories.</p><p>In today’s BioBrief:</p><ul><li><strong>Kyverna / miv-cel</strong> — Kyverna continued to rally after initiating a rolling BLA submission for miv-cel in stiff person syndrome, a potential milestone for autoimmune CAR-T therapy beyond oncology.</li><li><strong>BridgeBio / encaleret</strong> — BridgeBio’s encaleret NDA in autosomal dominant hypocalcemia type 1 remained in focus after Phase 3 CALIBRATE data showed strong calcium-normalization results versus standard therapy.</li><li><strong>Agios / mitapivat</strong> — Agios advanced mitapivat through an sNDA seeking accelerated approval in sickle cell disease, with FDA alignment on the confirmatory trial design.</li><li><strong>Bristol Myers Squibb / Hengrui Pharma</strong> — Bristol Myers’ broad Hengrui collaboration continued to shape discussion around China-originated pipeline sourcing and large-pharma business development.</li><li><strong>Market pulse</strong> — XBI rose about 0.9 percent while IBB gained about 0.3 percent, with investors rewarding clear regulatory and clinical catalysts rather than broad speculative risk.</li><li><strong>Catalyst watch</strong> — Watch for Kyverna’s BLA completion and filing acceptance, BridgeBio’s NDA review designation, and upcoming Agios hematology data visibility.</li></ul><p>Today’s episode is about regulatory execution and modality validation driving biotech performance more than broad market risk appetite.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-14.mp3" length="5580944" type="audio/mpeg"/>
+<itunes:duration>346</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>18</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Wednesday, May 13: FDA Leadership Uncertainty, Bristol Myers’ Hengrui Deal, and Kyverna’s Autoimmune CAR-T Filing</title>
+<itunes:title>Wednesday, May 13: FDA Leadership Uncertainty, Bristol Myers’ Hengrui Deal, and Kyverna’s Autoimmune CAR-T Filing</itunes:title>
+<guid isPermaLink="false">8e56a8c5-9765-4f1e-90b6-ed7bbf3a329b</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-13</link>
+<pubDate>Fri, 15 May 2026 10:15:48 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers a selective biotech session shaped by regulatory uncertainty, large-pharma pipeline sourcing, and concrete FDA filing progress.</p><p>In today’s BioBrief:</p><ul><li><strong>FDA leadership</strong> — Leadership uncertainty at the agency became a market catalyst, lifting some FDA-sensitive biotech names while keeping regulatory predictability in focus.</li><li><strong>Bristol Myers Squibb / Hengrui Pharma</strong> — Bristol Myers announced a broad collaboration covering 13 programs across oncology, hematology, and immunology, with $600 million upfront and up to $15.2 billion in potential value.</li><li><strong>Kyverna / miv-cel</strong> — Kyverna began a rolling BLA submission for miv-cel in stiff person syndrome, potentially moving autoimmune CAR-T therapy closer to formal FDA review.</li><li><strong>Agios and BridgeBio</strong> — Agios submitted an sNDA for mitapivat in sickle cell disease, while BridgeBio filed an NDA for encaleret in autosomal dominant hypocalcemia type 1.</li><li><strong>Market pulse</strong> — XBI rose about 0.7 percent and IBB gained about 0.2 percent, with investors rewarding regulatory clarity and specific catalysts more than broad small-cap risk.</li><li><strong>Catalyst watch</strong> — Watch for FDA leadership updates, Kyverna filing acceptance, and future regulatory timelines for Agios and BridgeBio.</li></ul><p>Today’s episode is about regulatory uncertainty and strategic pipeline sourcing driving biotech sentiment more than broad risk appetite.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-13.mp3" length="5252010" type="audio/mpeg"/>
+<itunes:duration>326</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Tuesday, May 12: Bristol Myers’ Hengrui Deal, MoonLake’s Sonelokimab Path, and Agios / BridgeBio FDA Filings</title>
+<itunes:title>Tuesday, May 12: Bristol Myers’ Hengrui Deal, MoonLake’s Sonelokimab Path, and Agios / BridgeBio FDA Filings</itunes:title>
+<guid isPermaLink="false">f1d13a86-cf2a-4446-9e7a-19604feae322</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-12</link>
+<pubDate>Thu, 14 May 2026 12:59:36 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers a selective biotech session where large-cap quality outperformed, pharma business development stayed active, and regulatory-path clarity drove several company-specific stories.</p><p>In today’s BioBrief:</p><ul><li><strong>Bristol Myers Squibb / Hengrui Pharma</strong> — BMS announced a broad collaboration covering 13 oncology, hematology, and immunology programs, with $600 million upfront and up to about $15.2 billion in potential total value.</li><li><strong>MoonLake / sonelokimab</strong> — FDA feedback suggests MoonLake may be able to support a future BLA in hidradenitis suppurativa using existing VELA-1, VELA-2, and MIRA data, reducing the perceived need for another HS trial.</li><li><strong>Agios / mitapivat</strong> — Agios submitted an sNDA seeking accelerated approval in sickle cell disease, with FDA alignment on the confirmatory trial design.</li><li><strong>BridgeBio / encaleret</strong> — BridgeBio submitted an NDA for encaleret in autosomal dominant hypocalcemia type 1, extending its rare-disease regulatory pipeline.</li><li><strong>Market pulse</strong> — XBI finished roughly flat, while IBB gained about 1.3 percent, pointing to a selective biotech tape favoring larger-cap and catalyst-backed names.</li><li><strong>Regulatory watch</strong> — Reports of FDA leadership transition added a broader note of uncertainty around regulatory predictability, though no product-specific review changes were identified.</li></ul><p>Today’s episode is about selective biotech confidence: pharma is still paying for external innovation, and FDA-path clarity remains a key driver for late-stage biotech stories.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-12.mp3" length="5404565" type="audio/mpeg"/>
+<itunes:duration>335</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>16</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Monday, May 11: Lilly’s Oral Obesity Strategy, Madrigal’s Rezdiffra Franchise, and ASCO Positioning</title>
+<itunes:title>Monday, May 11: Lilly’s Oral Obesity Strategy, Madrigal’s Rezdiffra Franchise, and ASCO Positioning</itunes:title>
+<guid isPermaLink="false">a06dd415-241d-40d8-87dd-be42426fcdfe</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-11</link>
+<pubDate>Tue, 12 May 2026 01:01:57 +0000</pubDate>
+<description><![CDATA[<p>Biotech traded modestly higher to start the week, with sentiment still selective rather than broad-based. Today’s BioBrief looks at obesity, MASH, oncology positioning ahead of ASCO, and continued market preference for commercial execution.</p><p>In today’s BioBrief:</p><ul><li><strong>Eli Lilly / orforglipron</strong> — Lilly remained central to the obesity debate as investors continued focusing on whether oral GLP-1 therapies can become major products alongside injectable franchises like Zepbound and Mounjaro.</li><li><strong>Madrigal / Rezdiffra</strong> — Madrigal continued drawing attention as investors increasingly framed Rezdiffra not only as the first approved MASH therapy, but as a possible foundation for a broader liver disease franchise.</li><li><strong>Arrowhead / ARO-PNPLA3</strong> — Madrigal’s licensed RNA interference program remains an important strategic expansion point, though the follow-on pipeline is still early and supported mainly by surrogate endpoints.</li><li><strong>Oncology / ASCO</strong> — Oncology names saw positioning ahead of upcoming ASCO presentations, especially around antibody-drug conjugates, precision oncology, and solid tumor strategies.</li><li><strong>TG Therapeutics / Briumvi</strong> — TG Therapeutics continued holding gains after raised Briumvi revenue guidance, reinforcing the market’s preference for commercial-stage execution.</li><li><strong>Market pulse</strong> — XBI and IBB were modestly higher, with capital concentrating around obesity, liver disease, oncology catalysts, and commercial-stage biotech rather than broad speculative risk-taking.</li><li><strong>Catalyst watch</strong> — Investors will be watching upcoming obesity and diabetes updates, EASL liver-disease presentations, Rezdiffra commercial metrics, and ASCO abstract and presentation details.</li></ul><p>BioBrief is your daily rundown of the biotech and biopharma stories shaping clinical, regulatory, and market expectations.</p><p></p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-11.mp3" length="4829871" type="audio/mpeg"/>
+<itunes:duration>299</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>15</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Week Ahead by BioBrief, Sunday, May 10: REGENXBIO’s DMD Readout, ASGCT Gene Therapy Data, and Biotech’s Financing Window</title>
+<itunes:title>Week Ahead by BioBrief, Sunday, May 10: REGENXBIO’s DMD Readout, ASGCT Gene Therapy Data, and Biotech’s Financing Window</itunes:title>
+<guid isPermaLink="false">d3ea8c02-e8ee-4fc3-b59a-1fcf182c0e68</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-10-week-ahead</link>
+<pubDate>Mon, 11 May 2026 08:18:33 +0000</pubDate>
+<description><![CDATA[<p>A special Sunday edition of BioBrief previewing the biotech and biopharma catalysts to watch for the week ahead.</p><p>In this Week Ahead by BioBrief:</p><ul><li><strong>REGENXBIO / RGX-202</strong> — The main event is Thursday’s pivotal Duchenne muscular dystrophy gene-therapy readout, with investors watching microdystrophin expression, safety, functional context, and the possible 2026 B L A path.</li><li><strong>ASGCT 2026</strong> — The American Society of Gene and Cell Therapy annual meeting runs Monday through Friday, putting AAV delivery, genome editing, cell therapy, rare disease, CNS delivery, and in vivo engineering back in focus.</li><li><strong>Tenaya / TN-401</strong> — Tenaya is expected to present new Phase 1b/2 data for its cardiac gene therapy in PKP2-associated arrhythmogenic right ventricular cardiomyopathy.</li><li><strong>Biotech financing window</strong> — Odyssey Therapeutics is expected to close its upsized IPO, while Artiva Biotherapeutics is expected to close a 300 million dollar offering, testing whether biotech capital markets are selectively reopening.</li><li><strong>Market pulse</strong> — XBI and IBB entered the week stronger, supported by broader risk appetite, but financing conditions remain selective rather than broadly open.</li><li><strong>Catalyst watch</strong> — Also on the calendar: MBX Biosciences’ Obesity Day, Altimmune earnings, Celcuity earnings, ESMO Breast Cancer, and a comparatively quiet FDA regulatory week.</li></ul><p>This week’s BioBrief is about gene-therapy risk, selective biotech risk appetite, and whether upcoming data and financings can support the improving tape.</p><p>Optional Tags: REGENXBIO, RGNX, RGX-202, Duchenne muscular dystrophy, DMD, gene therapy, ASGCT, Tenaya, TN-401, cardiac gene therapy, Odyssey Therapeutics, Artiva Biotherapeutics, biotech IPO, XBI, IBB, biotech financing, biopharma, clinical trials</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-10-week-ahead.mp3" length="5491501" type="audio/mpeg"/>
+<itunes:duration>341</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Friday, May 8: Bayer’s Perfuse Acquisition, TG’s Briumvi Momentum, and Madrigal’s PNPLA3 Deal</title>
+<itunes:title>Friday, May 8: Bayer’s Perfuse Acquisition, TG’s Briumvi Momentum, and Madrigal’s PNPLA3 Deal</itunes:title>
+<guid isPermaLink="false">85032c76-3221-4d4a-a6c2-f303cd1d1d5f</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-08</link>
+<pubDate>Sat, 09 May 2026 10:44:44 +0000</pubDate>
+<description><![CDATA[<p>BioBrief closes the week with a selective but constructive biotech tape, where strategic buyers and public investors continued rewarding commercial traction, differentiated specialty assets, and credible pipeline expansion.</p><p>In today’s BioBrief:</p><ul><li><strong>Bayer / Perfuse Therapeutics</strong> — Bayer agreed to acquire Perfuse for $300 million upfront and up to $2.45 billion total, adding the Phase 2 ophthalmology asset <strong>PER-001</strong> for glaucoma and diabetic retinopathy.</li><li><strong>TG Therapeutics / Briumvi</strong> — TG continued to benefit from strong first-quarter Briumvi sales in relapsing multiple sclerosis, after reporting nearly $195 million in U.S. revenue and raising full-year guidance to roughly $885–900 million.</li><li><strong>Madrigal / Arrowhead / ARO-PNPLA3</strong> — Madrigal expanded beyond Rezdiffra by licensing Arrowhead’s PNPLA3-targeted RNAi program for genetically defined MASH, though the supporting clinical evidence remains early-stage and based largely on liver-fat reduction.</li><li><strong>Mirum / zilurgisertib</strong> — Mirum remained in focus after raising revenue guidance and advancing an FDA-reviewed FOP asset, with zilurgisertib under Priority Review and a September 2026 PDUFA date.</li><li><strong>Market pulse</strong> — XBI and IBB stayed positive, but the session remained selective, favoring companies with commercial execution, strategic validation, or credible financing access.</li><li><strong>Catalyst watch</strong> — Investors will be watching for more PER-001 clinical detail from Bayer, TG’s ENHANCE and subcutaneous Briumvi updates, and liver-disease data at EASL later this month.</li></ul><p>Today’s episode is about selective validation: pharma buyers, public investors, and capital providers are still rewarding biotech companies with differentiated assets and durable execution.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-08.mp3" length="5240835" type="audio/mpeg"/>
+<itunes:duration>327</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Thursday, May 7: Bayer’s Perfuse Deal, TG’s Briumvi Guidance, and Mirum’s Zilurgisertib Catalyst</title>
+<itunes:title>Thursday, May 7: Bayer’s Perfuse Deal, TG’s Briumvi Guidance, and Mirum’s Zilurgisertib Catalyst</itunes:title>
+<guid isPermaLink="false">d1e05a6c-153c-46ce-b46f-a04757a7821c</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-07</link>
+<pubDate>Thu, 07 May 2026 22:51:43 +0000</pubDate>
+<description><![CDATA[<p>Biotech traded higher again today, with gains concentrated around companies showing commercial traction, strategic validation, or visible pipeline catalysts. This episode covers Bayer’s ophthalmology acquisition, TG Therapeutics’ stronger Briumvi outlook, and Mirum’s rare disease expansion.</p><p>In today’s BioBrief:</p><ul><li><strong>Bayer / Perfuse Therapeutics</strong> — Bayer agreed to acquire Perfuse Therapeutics for $300 million upfront and up to $2.45 billion including milestones, adding the Phase 2 ophthalmology asset <strong>PER-001</strong> for glaucoma and diabetic retinopathy.</li><li><strong>TG Therapeutics / Briumvi</strong> — TG reported nearly $195 million in first-quarter U.S. Briumvi sales and raised full-year guidance to roughly $885–900 million, shifting the story further toward commercial execution and franchise durability.</li><li><strong>Mirum Pharmaceuticals / zilurgisertib</strong> — Mirum raised revenue guidance and licensed worldwide rights to <strong>zilurgisertib</strong>, an ALK2 inhibitor for fibrodysplasia ossificans progressiva, with an FDA Priority Review decision expected in September 2026.</li><li><strong>Madrigal / Rezdiffra</strong> — Madrigal continued to benefit from Rezdiffra momentum after licensing a PNPLA3-targeted RNA interference asset from Arrowhead, reinforcing interest in genetically targeted MASH approaches.</li><li><strong>Market pulse</strong> — XBI and IBB both traded higher alongside a stronger Nasdaq session, but biotech sentiment remained selective rather than broadly risk-on.</li><li><strong>Catalyst watch</strong> — Investors will be watching Bayer’s next clinical disclosures for PER-001, TG’s mid-year and late-stage Briumvi lifecycle data, and Mirum’s September PDUFA decision for zilurgisertib.</li></ul><p>BioBrief is your daily rundown of the biotech and biopharma news that matters for investors, operators, founders, and pharma decision-makers.</p><p></p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-07.mp3" length="5514488" type="audio/mpeg"/>
+<itunes:duration>342</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Wednesday, May 6: Avalo’s HS Data, Bayer’s Perfuse Deal, and TG Therapeutics’ Briumvi Guidance</title>
+<itunes:title>Wednesday, May 6: Avalo’s HS Data, Bayer’s Perfuse Deal, and TG Therapeutics’ Briumvi Guidance</itunes:title>
+<guid isPermaLink="false">2da8d709-603b-48a9-a7ce-3542cb69e0d0</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-06</link>
+<pubDate>Wed, 06 May 2026 23:04:22 +0000</pubDate>
+<description><![CDATA[<p>Biotech traded higher on Wednesday, with risk appetite improving across companies tied to clinical data, commercial execution, and strategic deal activity. Today’s episode covers Avalo’s randomized Phase 2 hidradenitis suppurativa data, Bayer’s acquisition of Perfuse Therapeutics, and TG Therapeutics’ stronger Briumvi revenue outlook.</p><p>In today’s BioBrief:</p><ul><li><strong>Avalo Therapeutics / abdakibart</strong> — Avalo reported positive randomized Phase 2 data in moderate-to-severe hidradenitis suppurativa, with both dosing arms meeting the HiSCR75 primary endpoint at Week 16.</li><li><strong>Avalo financing</strong> — The company priced a $375 million offering intended to fund abdakibart through Phase 3 topline data, shifting the story toward a funded registrational path.</li><li><strong>Bayer / Perfuse Therapeutics</strong> — Bayer agreed to acquire Perfuse for $300 million upfront and up to $2.45 billion including milestones, adding a mid-stage ophthalmology asset for glaucoma and diabetic retinopathy.</li><li><strong>TG Therapeutics / Briumvi</strong> — TG reported nearly $195 million in first-quarter U.S. net revenue for Briumvi and raised full-year U.S. guidance to roughly $885 million to $900 million.</li><li><strong>Market pulse</strong> — XBI rose about 3 percent and IBB gained a little more than 2 percent, with notable strength in Avalo, TG Therapeutics, and Madrigal.</li><li><strong>Catalyst watch</strong> — Investors will look for full Avalo data and Phase 3 design details, more disclosure around Bayer’s PER-001 plans, and upcoming Briumvi dosing and subcutaneous formulation data.</li></ul><p>BioBrief is your daily rundown of the biotech and biopharma stories that changed the clinical, regulatory, financing, or strategic picture.</p><p>Optional Tags: Avalo Therapeutics, abdakibart, hidradenitis suppurativa, Bayer, Perfuse Therapeutics, PER-001, glaucoma, diabetic retinopathy, TG Therapeutics, Briumvi, multiple sclerosis, immunology, ophthalmology, M&amp;A, XBI, IBB</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-06.mp3" length="5381159" type="audio/mpeg"/>
+<itunes:duration>334</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Tuesday, May 5: Cytokinetics’ Aficamten Data, Viridian’s Elegrobart Data, and FDA’s Replimune Pushback</title>
+<itunes:title>Tuesday, May 5: Cytokinetics’ Aficamten Data, Viridian’s Elegrobart Data, and FDA’s Replimune Pushback</itunes:title>
+<guid isPermaLink="false">834085f3-ab80-4237-b353-43fd52cce876</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-05</link>
+<pubDate>Wed, 06 May 2026 00:07:17 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers a catalyst-driven biotech session, with late-stage clinical data rewarded while regulatory scrutiny weighed on weaker oncology evidence packages.</p><p>In today’s BioBrief:</p><ul><li><strong>Cytokinetics / aficamten</strong> — Positive Phase 3 data in non-obstructive hypertrophic cardiomyopathy showed statistically significant improvements in symptoms and exercise capacity, expanding the potential HCM franchise beyond obstructive disease.</li><li><strong>Viridian / elegrobart</strong> — Phase 3 data in chronic thyroid eye disease showed proptosis responder rates of about 50 percent and 54 percent versus 15 percent for placebo, supporting Viridian’s subcutaneous TED strategy.</li><li><strong>Replimune / RP1</strong> — The FDA publicly defended its rejection of Replimune’s oncology therapy, reinforcing concern around single-arm evidence packages where controlled trials may be feasible.</li><li><strong>Market pulse</strong> — XBI was roughly flat, IBB rose slightly, and the day was defined more by clinical-data dispersion than broad biotech risk appetite.</li><li><strong>Catalyst watch</strong> — Cytokinetics will need fuller data and regulatory alignment, while Viridian is moving toward a BLA submission for elegrobart in early 2027.</li></ul><p>Today’s episode is about evidence discipline: controlled Phase 3 data drove upside, while regulatory skepticism remained a clear risk for weaker oncology packages.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-05.mp3" length="4304915" type="audio/mpeg"/>
+<itunes:duration>266</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Monday, May 4: Veppanu’s FDA Approval, UCB’s Candid Deal, and Summit’s Ivonescimab Setback</title>
+<itunes:title>Monday, May 4: Veppanu’s FDA Approval, UCB’s Candid Deal, and Summit’s Ivonescimab Setback</itunes:title>
+<guid isPermaLink="false">bfb14549-9e14-4de9-b84d-d6b783c9a2d8</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-04</link>
+<pubDate>Mon, 04 May 2026 20:37:24 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers a major platform milestone as the F D A approves Veppanu, the first targeted protein degrader, for ESR1-mutated breast cancer. We also look at UCB’s 2.2 billion dollar autoimmune acquisition, Summit’s weaker ivonescimab timing story, and Celcuity’s Phase 3 breast cancer readout ahead of ASCO.</p><ol><li><strong>Arvinas / Pfizer — Veppanu</strong><ul><li>Mechanism: Oral estrogen receptor protein degrader</li><li>Indication: ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer</li><li>Stage: FDA approval</li><li>Key result: Median progression-free survival of 5.0 months versus 2.1 months with fulvestrant; hazard ratio 0.57</li><li>Why it matters: First approved targeted protein degrader, with a narrow but clinically meaningful breast cancer label</li></ul></li><li><strong>UCB / Candid Therapeutics — cizutamig platform</strong><ul><li>Mechanism: BCMA/CD3 T-cell engager targeting plasma cells</li><li>Indication: Autoimmune diseases</li><li>Stage: Multiple Phase 1 studies</li><li>Key result: UCB is paying 2.0 billion dollars upfront plus up to 200 million dollars in milestones</li><li>Why it matters: Large pharma is buying into oncology-style immune-reset approaches for autoimmune disease</li></ul></li><li><strong>Summit / Akeso — ivonescimab</strong><ul><li>Mechanism: PD-1/VEGF bispecific antibody</li><li>Indication: First-line metastatic non-small cell lung cancer</li><li>Stage: Phase 3 HARMONi-3</li><li>Key result: Interim analysis did not meet the high statistical threshold for early regulatory engagement</li><li>Why it matters: The asset remains alive, but the fastest approval path and near-term bull case are weaker</li></ul></li><li><strong>Celcuity — gedatolisib</strong><ul><li>Mechanism: PI3K/mTOR pathway inhibitor</li><li>Indication: HR-positive, HER2-negative, PIK3CA-mutant advanced or metastatic breast cancer</li><li>Stage: Phase 3 VIKTORIA-1</li><li>Key result: Statistically significant and clinically meaningful progression-free survival improvement, with full effect size not yet disclosed</li><li>Why it matters: The readout strengthens Celcuity’s breast cancer story, but ASCO will determine how strong the result really is</li></ul></li></ol><p>Today’s stack: Veppanu first, UCB/Candid second, Summit third, Celcuity fourth.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-04.mp3" length="5609365" type="audio/mpeg"/>
+<itunes:duration>348</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Friday, May 1: Veppanu’s FDA Approval, Daraxonrasib Expanded Access, and Jakafi XR</title>
+<itunes:title>Friday, May 1: Veppanu’s FDA Approval, Daraxonrasib Expanded Access, and Jakafi XR</itunes:title>
+<guid isPermaLink="false">68dfdaa7-6104-40d2-a435-193592f83416</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-05-01</link>
+<pubDate>Mon, 04 May 2026 16:32:27 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers three high-signal biopharma developments from Friday, May 1, 2026. The FDA approved the first targeted protein degrader drug, Revolution Medicines moved closer to access in pancreatic cancer, and Incyte added a once-daily formulation to defend the Jakafi franchise.</p><ol><li><strong>Arvinas / Pfizer — Veppanu</strong><ul><li>Mechanism: Oral estrogen receptor PROTAC / targeted protein degrader</li><li>Indication: ER-positive, HER2-negative, ESR1-mutated advanced or metastatic breast cancer</li><li>Stage: FDA approval</li><li>Key result: Median progression-free survival of 5.0 months versus 2.1 months for fulvestrant in 270 ESR1-mutated patients</li><li>Why it matters: First FDA-approved PROTAC, validating targeted protein degradation while raising launch questions in a narrow breast cancer label</li></ul></li><li><strong>Revolution Medicines — daraxonrasib</strong><ul><li>Mechanism: Oral RAS(ON) multi-selective inhibitor</li><li>Indication: Previously treated metastatic pancreatic ductal adenocarcinoma</li><li>Stage: FDA expanded access clearance</li><li>Key result: Phase 3 median overall survival of 13.2 months versus 6.7 months for chemotherapy; hazard ratio 0.40</li><li>Why it matters: Large survival signal in metastatic pancreatic cancer, with expanded access suggesting regulatory momentum before NDA filing</li></ul></li><li><strong>Incyte — Jakafi XR</strong><ul><li>Mechanism: JAK1/JAK2 inhibitor</li><li>Indication: Myelofibrosis, polycythemia vera, and graft-versus-host disease</li><li>Stage: FDA approval</li><li>Key result: Once-daily 55 mg extended-release formulation shown bioequivalent to 25 mg immediate-release twice daily</li><li>Why it matters: Franchise-defense move for a multibillion-dollar hematology product, focused on convenience and retention rather than new efficacy</li></ul></li></ol><p>Today’s stack: daraxonrasib first, Veppanu second, Jakafi XR third.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-05-01.mp3" length="5140833" type="audio/mpeg"/>
+<itunes:duration>319</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Thursday, April 30: Axsome’s Alzheimer’s Approval, AstraZeneca’s Split ODAC, and uniQure’s UK Path</title>
+<itunes:title>Thursday, April 30: Axsome’s Alzheimer’s Approval, AstraZeneca’s Split ODAC, and uniQure’s UK Path</itunes:title>
+<guid isPermaLink="false">469ad237-4602-447f-ba3d-5cb10f3f6c1c</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-30</link>
+<pubDate>Fri, 01 May 2026 15:27:22 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers the key biotech and pharma developments from Thursday, April 30, 2026. Axsome secured an FDA approval in Alzheimer’s agitation, AstraZeneca received a split advisory committee outcome across prostate and breast cancer, and uniQure advanced its Huntington’s gene therapy toward a UK filing.</p><ol><li><strong>Axsome / Auvelity</strong><ul><li>Mechanism: NMDA receptor antagonism and sigma-1 receptor activity via dextromethorphan-bupropion</li><li>Indication: Agitation associated with Alzheimer’s dementia</li><li>Stage: FDA approval</li><li>Key result: ADVANCE-1 showed a 14.9-point agitation score improvement versus 11.6 on placebo at week five</li><li>Why it matters: Auvelity becomes the first approved non-antipsychotic for this use, with a June US launch expected</li></ul></li><li><strong>AstraZeneca / Truqap and camizestrant</strong><ul><li>Mechanism: Truqap is an AKT inhibitor; camizestrant is an oral SERD</li><li>Indication: PTEN-deficient metastatic hormone-sensitive prostate cancer; HR-positive, HER2-negative breast cancer with ESR1 mutation</li><li>Stage: FDA advisory committee reviews</li><li>Key result: Truqap showed 33.2 months versus 25.7 months radiographic progression-free survival; camizestrant showed 16.0 months versus 9.2 months progression-free survival</li><li>Why it matters: Advisers backed Truqap but rejected camizestrant’s benefit-risk case, showing how regulators are weighing biomarker-driven strategies differently</li></ul></li><li><strong>uniQure / AMT-130</strong><ul><li>Mechanism: AAV5 gene therapy delivering microRNA to lower huntingtin</li><li>Indication: Huntington’s disease</li><li>Stage: Phase 1/2 package moving toward UK marketing application</li><li>Key result: High-dose analysis suggested about 75% slowing versus an external matched control</li><li>Why it matters: The UK path looks more open, but the evidence package remains non-standard and US regulatory risk remains high</li></ul></li></ol><p>Today’s stack: Axsome first, AstraZeneca second, uniQure third.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-30.mp3" length="5216066" type="audio/mpeg"/>
+<itunes:duration>326</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Wednesday, April 29: Survodutide’s Obesity Data, Teva’s Tourette Deal, and HER2 Gastric Review</title>
+<itunes:title>Wednesday, April 29: Survodutide’s Obesity Data, Teva’s Tourette Deal, and HER2 Gastric Review</itunes:title>
+<guid isPermaLink="false">41504632-0294-4824-8faa-eb252003901b</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-29</link>
+<pubDate>Fri, 01 May 2026 15:25:23 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers the key biotech and pharma moves from Wednesday, April 29, 2026. Today’s episode focuses on late-stage obesity data, a survival-positive HER2 gastric cancer filing, Teva’s neuroscience acquisition, and Immunome’s desmoid tumor NDA.</p><ol><li>Boehringer Ingelheim / Zealand Pharma — survodutide<ul><li>Mechanism: Dual glucagon and GLP-1 receptor agonist</li><li>Indication: Obesity or overweight without type 2 diabetes</li><li>Stage: Phase 3</li><li>Key result: 16.6% body-weight loss at 76 weeks versus 3.2% on placebo in 725 adults</li><li>Why it matters: Survodutide now looks like a credible late-stage obesity contender, with full data expected at ADA in June.</li></ul></li><li>BeOne Medicines / Jazz Pharmaceuticals — TEVIMBRA + ZIIHERA + chemotherapy<ul><li>Mechanism: PD-1 antibody plus bispecific HER2 antibody plus chemotherapy</li><li>Indication: First-line HER2-positive gastric, gastroesophageal junction, or esophageal adenocarcinoma</li><li>Stage: FDA Priority Review</li><li>Key result: Median overall survival of 26.4 months versus 19.2 months for trastuzumab plus chemotherapy in 914 patients</li><li>Why it matters: The regimen showed a clinically meaningful survival gain in a difficult first-line oncology setting.</li></ul></li><li>Teva / Emalex Biosciences — ecopipam<ul><li>Mechanism: Selective dopamine D1 receptor antagonist</li><li>Indication: Pediatric Tourette syndrome</li><li>Stage: NDA-ready</li><li>Key result: Pediatric relapse rate of 41.9% on ecopipam versus 68.1% on placebo; hazard ratio of 0.5</li><li>Why it matters: Teva is paying up to $900 million for a late-stage CNS asset that fits its innovative medicines strategy.</li></ul></li><li>Immunome — varegacestat<ul><li>Mechanism: Oral gamma-secretase inhibitor</li><li>Indication: Progressing desmoid tumors</li><li>Stage: FDA NDA submitted</li><li>Key result: 84% reduction in risk of progression or death versus placebo in 156 patients; response rate of 56% versus 9%</li><li>Why it matters: The efficacy signal is strong, even if the commercial market is relatively small.</li></ul></li></ol><p>Today’s stack: survodutide first, BeOne and Jazz second, Teva third, Immunome fourth.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-29.mp3" length="5407073" type="audio/mpeg"/>
+<itunes:duration>335</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Tuesday, April 28: Survodutide’s Obesity Data, Bepirovirsen’s FDA Review, and Lilly’s Editing Deal</title>
+<itunes:title>Tuesday, April 28: Survodutide’s Obesity Data, Bepirovirsen’s FDA Review, and Lilly’s Editing Deal</itunes:title>
+<guid isPermaLink="false">2287ae00-42c0-4eb4-b8cf-1cb462102ac2</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-28</link>
+<pubDate>Tue, 28 Apr 2026 22:57:31 +0000</pubDate>
+<description><![CDATA[<p>Today’s BioBrief covers a Phase 3 obesity readout, a major chronic hepatitis B regulatory update, and a large genetic medicine platform deal. We also look at Scancell’s melanoma vaccine signal and zipalertinib’s FDA review in EGFR exon 20 lung cancer.</p><ol><li>Boehringer Ingelheim / Zealand Pharma — survodutide<ul><li>Mechanism: dual glucagon / GLP-1 receptor agonist</li><li>Indication: obesity or overweight without type 2 diabetes</li><li>Stage: Phase 3</li><li>Key result: 16.6% mean weight loss at 76 weeks versus 3.2% on placebo in 725 adults</li><li>Why it matters: validates survodutide as a credible late-stage obesity contender, with potential differentiation through its glucagon component</li></ul></li><li>GSK / Ionis — bepirovirsen<ul><li>Mechanism: antisense oligonucleotide targeting hepatitis B viral RNA</li><li>Indication: chronic hepatitis B</li><li>Stage: FDA Priority Review and Breakthrough Therapy designation</li><li>Key result: Phase 3 studies showed significantly higher functional cure rates than standard of care, though full percentages were not disclosed today</li><li>Why it matters: moves a potential functional-cure therapy into a defined FDA review window, with a PDUFA date of October 26, 2026</li></ul></li><li>Eli Lilly / Profluent — AI-designed recombinases<ul><li>Mechanism: site-specific recombinases for large-scale genome editing</li><li>Indication: undisclosed severe genetic diseases</li><li>Stage: research and preclinical collaboration</li><li>Key result: deal worth up to $2.25 billion in milestones, plus tiered royalties</li><li>Why it matters: gives Lilly access to a platform aimed at long DNA insertion and whole-gene replacement</li></ul></li><li>Scancell — iSCIB1+<ul><li>Mechanism: DNA ImmunoBody cancer vaccine</li><li>Indication: advanced unresectable melanoma</li><li>Stage: Phase 2 update; FDA Fast Track designation</li><li>Key result: 77% progression-free survival at 20 months versus a 43% historical benchmark</li><li>Why it matters: strengthens the case for a registrational Phase 3 trial, while leaving randomized confirmation as the key risk</li></ul></li><li>Taiho / Cullinan — zipalertinib<ul><li>Mechanism: oral irreversible EGFR inhibitor</li><li>Indication: EGFR exon 20 insertion non-small cell lung cancer after platinum therapy</li><li>Stage: FDA NDA accepted</li><li>Key result: 35.2% confirmed response rate and 8.8-month median duration of response in 176 patients</li><li>Why it matters: creates a clear regulatory catalyst in a difficult targeted lung cancer niche</li></ul></li></ol><p>Today’s stack: survodutide first, bepirovirsen second, Lilly-Profluent third, Scancell fourth, and zipalertinib fifth.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-28.mp3" length="5193078" type="audio/mpeg"/>
+<itunes:duration>322</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Monday, April 27: Intellia’s CRISPR Win, Sun’s Organon Deal, and Oruka’s Psoriasis Data</title>
+<itunes:title>Monday, April 27: Intellia’s CRISPR Win, Sun’s Organon Deal, and Oruka’s Psoriasis Data</itunes:title>
+<guid isPermaLink="false">32340b8e-2288-4f9a-99f2-9755a74c13d2</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-27</link>
+<pubDate>Mon, 27 Apr 2026 19:10:42 +0000</pubDate>
+<description><![CDATA[<p>BioBrief covers the highest-signal biopharma developments from Monday, April 27th. Today’s episode focuses on Intellia’s Phase 3 in vivo CRISPR data, Sun Pharma’s $11.75 billion Organon acquisition, Oruka’s Phase 2a psoriasis readout, and Jazz’s FDA Priority Review catalyst in HER2-positive gastroesophageal cancer.</p><ol><li><strong>Intellia / lonvo-z</strong><ul><li>Mechanism: one-time in vivo CRISPR edit of KLKB1 to reduce kallikrein activity</li><li>Indication: hereditary angioedema</li><li>Stage: Phase 3; rolling BLA started</li><li>Key result: 87% attack reduction versus placebo; 62% attack-free and therapy-free versus 11% on placebo</li><li>Why it matters: randomized Phase 3 data materially improve approval probability for a one-time gene-editing therapy, though commercial uptake must compete with effective chronic drugs.</li></ul></li><li><strong>Sun Pharma / Organon</strong><ul><li>Mechanism: corporate acquisition, not a drug mechanism</li><li>Indication: women’s health, biosimilars, and established brands portfolio</li><li>Stage: definitive agreement</li><li>Key result: $11.75 billion all-cash transaction at $14 per share</li><li>Why it matters: the deal could roughly double Sun’s revenue and EBITDA, but brings integration risk and Organon’s $8.6 billion net debt.</li></ul></li><li><strong>Oruka / ORKA-001</strong><ul><li>Mechanism: extended half-life IL-23p19 antibody</li><li>Indication: moderate-to-severe plaque psoriasis</li><li>Stage: Phase 2a</li><li>Key result: 63.5% PASI 100 at week 16; about 83% PASI 90; 84 patients enrolled</li><li>Why it matters: strong efficacy makes ORKA-001 more credible, but the commercial thesis depends on durable clearance with infrequent dosing.</li></ul></li><li><strong>Jazz / zanidatamab</strong><ul><li>Mechanism: bispecific HER2 antibody</li><li>Indication: first-line HER2-positive gastroesophageal adenocarcinoma</li><li>Stage: FDA Priority Review</li><li>Key result: progression-free survival of 12.4 months versus 8.1 months; triplet overall survival of 26.4 months versus 19.2 months</li><li>Why it matters: zanidatamab could challenge trastuzumab as the HER2 backbone in first-line gastroesophageal cancer.</li></ul></li></ol><p><strong>Today’s stack: </strong>Intellia first, Sun Pharma second, Oruka third, Jazz fourth.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-27.mp3" length="5281267" type="audio/mpeg"/>
+<itunes:duration>327</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Friday, April 24: Regeneron’s First Gene Therapy Approval, Sanofi’s MS Win, Compass Gets Faster Psychedelic Review, and Arrowhead Advances</title>
+<itunes:title>Friday, April 24: Regeneron’s First Gene Therapy Approval, Sanofi’s MS Win, Compass Gets Faster Psychedelic Review, and Arrowhead Advances</itunes:title>
+<guid isPermaLink="false">e67e24ca-0419-4d23-94c5-1e70b5bd4f14</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-24</link>
+<pubDate>Fri, 24 Apr 2026 22:55:55 +0000</pubDate>
+<description><![CDATA[<p>BioBrief — Friday, April 24. Today’s episode covers four major biopharma developments: Regeneron’s FDA approval of the first gene therapy for genetic hearing loss, Sanofi’s positive CHMP opinion for progressive MS, Compass Pathways’ faster FDA review path for psilocybin, and Arrowhead’s positive European opinion for a rare-disease siRNA therapy.</p><ol><li><strong>Regeneron’s Otarmini </strong>becomes the first approved gene therapy for severe genetic hearing loss caused by OTOF mutations. In the CHORD trial, 16 of 20 efficacy patients met the main hearing-improvement endpoint at 24 weeks, with five of 12 reaching normal hearing on longer follow-up. The main significance is platform validation for inner ear gene therapy.</li><li><strong>Sanofi’s tolebrutinib </strong>received a positive CHMP opinion for non-relapsing secondary progressive MS. In HERCULES, the drug reduced six-month confirmed disability progression by 31% versus placebo, but liver safety remains the main concern. Europe is moving closer to approval, while the U.S. remains constrained.</li><li><strong>Compass Pathways </strong>received rolling NDA review and a Commissioner’s National Priority Voucher for COMP360, its synthetic psilocybin program for treatment-resistant depression. Two Phase 3 studies showed consistent though modest benefit, with statistically significant improvements over placebo or control. The key questions now are timing, labeling, and reimbursement.</li><li><strong>Arrowhead’s plozasiran</strong> received a positive CHMP opinion for familial chylomicronemia syndrome. In the main study, triglycerides fell 80% after ten months versus 17% on placebo, with fewer pancreatitis cases. This supports both the drug and the broader RNAi platform.</li></ol><p><strong>Today’s stack:</strong> Regeneron first, Sanofi second, Compass third, Arrowhead fourth.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-24.mp3" length="5486902" type="audio/mpeg"/>
+<itunes:duration>340</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Thursday, April 23: Regeneron’s Gene Therapy Breakthrough, Novo’s Pediatric Semaglutide Win, and Grace’s FDA Setback</title>
+<itunes:title>Thursday, April 23: Regeneron’s Gene Therapy Breakthrough, Novo’s Pediatric Semaglutide Win, and Grace’s FDA Setback</itunes:title>
+<guid isPermaLink="false">a25d8e93-a9c9-41f5-9243-584ab1c22769</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-23</link>
+<pubDate>Thu, 23 Apr 2026 22:08:20 +0000</pubDate>
+<description><![CDATA[<p><strong>BioBrief — Thursday, April 23</strong> Today’s episode covers three major biopharma developments: Regeneron’s FDA-approved gene therapy for inherited hearing loss, Novo Nordisk’s positive pediatric semaglutide data, and Grace Therapeutics’ FDA setback on its stroke drug. The common thread is that each story shifts regulatory probability, but in different directions: one clears a major hurdle, one expands an existing franchise, and one runs into manufacturing and toxicology friction.</p><p><strong>1) Regeneron gene therapy approval</strong> The FDA approved Regeneron’s gene therapy for inherited hearing loss, marking the first approval in this category. The therapy, Otarmeni, is a dual AAV gene therapy that replaces the defective OTOF gene, which is needed for sound signal transmission in the inner ear. The approval was based on a small single-arm study, but the efficacy signal was strong, with most patients showing measurable hearing improvement. Safety looked manageable, and the main significance is platform validation for inner-ear gene therapy rather than near-term revenue.</p><p><strong>2) Novo Nordisk pediatric semaglutide data</strong> Novo Nordisk reported positive phase three data for oral semaglutide in children and adolescents with type 2 diabetes. In a randomized placebo-controlled study, the drug produced a meaningful HbA1c reduction at 26 weeks, with safety consistent with prior semaglutide data. This supports broader lifecycle expansion for semaglutide beyond adults and strengthens Novo’s competitive position in GLP-1s. The next catalyst is regulatory filing and label expansion.</p><p><strong>3) Grace Therapeutics FDA letter</strong> Grace Therapeutics received a complete response letter for GTX-104, its intravenous nimodipine product for stroke-related complications. The FDA’s concerns were centered on manufacturing, packaging, and toxicology risk assessment rather than efficacy. The clinical data had shown lower hypotension risk and improved dosing consistency versus oral nimodipine, but the regulatory delay increases execution and financing risk. The company now needs a Type A meeting with the FDA to determine the fastest path forward.</p><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-23.mp3" length="4244728" type="audio/mpeg"/>
+<itunes:duration>263</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+<item>
+<title>Weds, April 22: Amneal Buys Kashiv, Roche Advances Fenebrutinib, and Merck Bets on AI</title>
+<itunes:title>Weds, April 22: Amneal Buys Kashiv, Roche Advances Fenebrutinib, and Merck Bets on AI</itunes:title>
+<guid isPermaLink="false">613d0abc-c639-4fca-983a-c09acde60397</guid>
+<link>https://phodmin.github.io/biobrief-feed/#2026-04-22</link>
+<pubDate>Wed, 22 Apr 2026 23:32:20 +0000</pubDate>
+<description><![CDATA[<p>Today on BioBrief:</p><ul><li>Amneal moves into biosimilars with its Kashiv acquisition,</li><li>Roche submits fenebrutinib for multiple sclerosis review, and </li><li>Merck commits up to $1 billion to Google Cloud AI infrastructure.</li></ul><p><em>This episode was produced with AI assistance and an AI-generated voice.</em></p>]]></description>
+<enclosure url="https://op3.dev/e,pg=147cc6d3-cc80-5935-b4e5-2749d60d6478/phodmin.github.io/biobrief-feed/media/2026-04-22.mp3" length="3958008" type="audio/mpeg"/>
+<itunes:duration>245</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<podcast:txt purpose="ai-content">true</podcast:txt>
+</item>
+</channel>
+</rss>
